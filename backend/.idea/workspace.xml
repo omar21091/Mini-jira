@@ -1,13 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f45940c-1f74-465a-94a0-21acf5f4d458" name="Changes" comment="" />
+    <list default="true" id="4fbc066e-1368-4c0a-8786-34d17510a7fe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/backend.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-jira/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-jira/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-jira/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-jira/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-jira/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-jira/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-jira/src/main/java/com/omar/minijira/MiniJiraApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-jira/src/main/java/com/omar/minijira/controller/TaskController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-jira/src/main/java/com/omar/minijira/model/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-jira/src/main/java/com/omar/minijira/repository/TaskRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-jira/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-jira/src/test/java/com/omar/minijira/MiniJiraApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/frontend/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/frontend/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/frontend/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/frontend/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/frontend/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/frontend/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/frontend/src/components/TaskList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/frontend/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/frontend/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/frontend/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/frontend/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/frontend/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="31cS3U95tyOXNdw0OlYxAOcNL8m" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="31cS6oJpMD76uHnmwAI8xmdFwt2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -15,17 +67,53 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mini-jira/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\omara\Desktop\mini jira\backend\mini-jira\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MiniJiraApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.omar.minijira.MiniJiraApplication" />
+      <module name="mini-jira" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.omar.minijira.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MiniJiraApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4f45940c-1f74-465a-94a0-21acf5f4d458" name="Changes" comment="" />
-      <created>1755821669268</created>
+      <changelist id="4fbc066e-1368-4c0a-8786-34d17510a7fe" name="Changes" comment="" />
+      <created>1755821695528</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1755821669268</updated>
+      <updated>1755821695528</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
